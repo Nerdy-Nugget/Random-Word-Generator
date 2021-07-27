@@ -33,6 +33,7 @@ words[26] = "cryptogram"
 words[27] = "torchlight"
 words[28] = "bankruptcy"
 
+
 function BuildArray(size){
 this.length = size
 for (var i = 1; i <= size; i++){
